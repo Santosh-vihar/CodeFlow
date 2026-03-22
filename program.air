@@ -1,0 +1,23 @@
+set name = java Mini Languague
+print(name)
+
+set x=5
+print(x)
+
+set y=int(5)
+add y 3
+print(y)
+
+set total=int(2+3*4)
+print(total)
+
+if (y > 5 && total == 14) { print("if block ran") } else { print("else block ran") }
+
+object user
+set user.age=int(21)
+set user.city=Delhi
+print(user.age)
+print(user.city)
+set n=int(3)
+print(n)
+repeat n print("Java Air is a syntax free Languague")
